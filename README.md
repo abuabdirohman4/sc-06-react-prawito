@@ -1,1 +1,1 @@
-# 06-react-prawito
+# sc-06-react-prawito
